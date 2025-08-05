@@ -1,2 +1,2 @@
-# novgorod
+# Novgorod
 🏛 Novgorod Studies
